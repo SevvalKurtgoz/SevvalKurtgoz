@@ -3,7 +3,7 @@
 I'm a passionate Front End Developer who is open to learn new technologies, especially interested in front end
 languages and web programming. Working with the aim of improving her knowledge in these fields
 
-<p align="left"> <img src="https://github.com/SevvalKurtgoz?tab=repositories" alt="SevvalKurtgoz" /> </p>
+<p align="left"> <img src="https://github.com/SevvalKurtgoz?tab=repositories" alt="ayse8888" /> </p>
 
 - 🌱 I’m currently learning: everything 🤣
 - ⚡ Fun fact: I love dancing Tango 💃
