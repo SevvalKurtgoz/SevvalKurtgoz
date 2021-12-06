@@ -32,8 +32,8 @@ languages and web programming. Working with the aim of improving her knowledge i
 - 🌟 [E-Commerce Angular Clone with React.js](https://github.com/ayse8888/mindsite-project)
 
 
-![Şevval Kurtgöz's GitHub Stats](https://github-readme-stats.vercel.app/api?username=ayse8888&show_icons=true&theme=cobalt&hide=prs)  
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ayse8888&layout=compact&hide=html&theme=cobalt)](https://github.com/anuraghazra/github-readme-stats)
+![Sevval's GitHub Stats](https://github-readme-stats.vercel.app/api?username=SevvalKurtgoz&show_icons=true&theme=cobalt&hide=prs)  
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SevvalKurtgoz&layout=compact&hide=html&theme=cobalt)](https://github.com/anuraghazra/github-readme-stats)
 
 
 
