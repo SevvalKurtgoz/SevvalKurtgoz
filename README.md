@@ -19,17 +19,9 @@ languages and web programming. Working with the aim of improving her knowledge i
 
 
 ## Blogs posts
-### The Projects You Must Check Out!
-- 🌟 [Re:Coded Capstone-Turkey-Animal-Adoption](https://github.com/ReCoded-Org/capstone-turkey-animal-adoption)
-- 🌟 [Kodluyoruz Developer Store E-Commerce (Commerce.js DB)](https://github.com/ayse8888/react-graduation-ecommerce-project)
 ### Projects you should look into:
-- 🌟 [MadLibs Game](https://github.com/ayse8888/MadLibs)
-- 🌟 [OOP-Movie-Project](https://github.com/ayse8888/OOP-Movie-Project)
-- 🌟 [Board-Project](https://github.com/ayse8888/Board-Project)
-- 🌟 [My Portfolio Project](https://github.com/ayse8888/portfolio)
-- 🌟 [React Movie Search App with TMDB](https://github.com/ayse8888/react-moviesearchproject-fetchapi-)
-- 🌟 [React Giph Search App with Giphy.com DB](https://github.com/ayse8888/react-giphy-project)
-- 🌟 [E-Commerce Angular Clone with React.js](https://github.com/ayse8888/mindsite-project)
+- 🌟 [Vistream Landing](https://github.com/SevvalKurtgoz/Vistream-Landing-Page-non-node)
+- 🌟 [React Alışveriş Listesi](https://github.com/SevvalKurtgoz/React-Alisveris-Listesi)
 
 
 ![Sevval's GitHub Stats](https://github-readme-stats.vercel.app/api?username=SevvalKurtgoz&show_icons=true&theme=cobalt&hide=prs)  
