@@ -10,7 +10,7 @@ languages and web programming. Working with the aim of improving her knowledge i
 - 💻 All of my projects are available at [https://github.com/SevvalKurtgoz?tab=repositories](https://github.com/SevvalKurtgoz?tab=repositories)
 
 
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/SevvalKurtgoz)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/hashnode.svg' alt='dev' height='40'>](https://aysebasar.medium.com/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/%C5%9Fevval-kurtg%C3%B6z-7087b318a/) 
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/SevvalKurtgoz)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/hashnode.svg' alt='dev' height='40'>](https://medium.com/@sevval1834)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/%C5%9Fevval-kurtg%C3%B6z-7087b318a/) 
 
 
 
